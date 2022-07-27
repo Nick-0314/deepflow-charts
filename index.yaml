@@ -1,0 +1,4594 @@
+apiVersion: v1
+entries:
+  deepflow:
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:51:56.756696856Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 7fcaf17bd4af3e86bc882ac71f6acb882e40f060c240587fa58fef4da93a37e8
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.154/deepflow-0.1.154.tgz
+    version: 0.1.154
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:48:15.834500522Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 58170e5b8046a1d09be70f20a38944787cbb0662f3b0477885a3ccc29331f2cb
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.153/deepflow-0.1.153.tgz
+    version: 0.1.153
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:47:10.922068149Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: f2d7db1d28c1b85c30f08ba01ce5b89c561bfb9e15b87a933e476148812e4303
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.152/deepflow-0.1.152.tgz
+    version: 0.1.152
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:16:19.954062005Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: aead057aed680a80c61f720688a85fdea8561e7236fb3c4d8988c67f0e8c31ee
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.151/deepflow-0.1.151.tgz
+    version: 0.1.151
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:13:31.114545137Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 99702b382d2ead2fca1b1761ae997194b9d1b3111e6b2da71317b5e9f8679abd
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.150/deepflow-0.1.150.tgz
+    version: 0.1.150
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:00:47.432104334Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 2f82a82f163e46e2d20e91a49b9405a7fb77b14351b1143dc83b8598c390d231
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.147/deepflow-0.1.147.tgz
+    version: 0.1.147
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:59:27.203679113Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: ad095d315d422643a346edc557e708e85f047df78d32a0ca70252a3125206825
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.146/deepflow-0.1.146.tgz
+    version: 0.1.146
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:50:29.584707693Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: a62445d4321619237fef1700643c3a85393520bad91583180063964a6232fc70
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.145/deepflow-0.1.145.tgz
+    version: 0.1.145
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:41:50.927855986Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 47325dfb82eda63254da3c2ccc210036fffaf551950cadbf5376729e68f6d7d3
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.144/deepflow-0.1.144.tgz
+    version: 0.1.144
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:37:33.488081128Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 7ff0bf17b270f0cda3bb53c74378500c0d412aff3428f027c0621bed45962306
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.143/deepflow-0.1.143.tgz
+    version: 0.1.143
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:36:44.762697502Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: f33da9216af96178beeaf4df126223af45f7968f8d7c804f299fe79ec9ef9140
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.142/deepflow-0.1.142.tgz
+    version: 0.1.142
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:35:21.733119817Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 3408033e73164f4883598f0ef512e892df2c66776bbb1b2b84f56852e9dfd4ca
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.141/deepflow-0.1.141.tgz
+    version: 0.1.141
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:31:20.262000509Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: 6735a4c34295a4a6768f430d4ef2625c311d5fd6b6e5aaefd8fa9ed4b74846cd
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.140/deepflow-0.1.140.tgz
+    version: 0.1.140
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:12:11.968113581Z"
+    dependencies:
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: An automated observability platform for cloud-native developers.
+    digest: e94ab31bff7c11f01f2b9faaba49896e926081d7f8c94ae101a16610b6a2ec8e
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.138/deepflow-0.1.138.tgz
+    version: 0.1.138
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-22T03:00:15.556455481Z"
+    dependencies:
+    - condition: deepflow-agent.enabled
+      name: deepflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 2413610b91c659663af35af0b613740a6a57b5238b1d72f088176f2b9cace347
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.137/deepflow-0.1.137.tgz
+    version: 0.1.137
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-21T05:19:12.832186925Z"
+    dependencies:
+    - condition: deepflow-agent.enabled
+      name: deepflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: c0fdd42986db88c5432d3e7aefb2c2bee07aaf02747410ac899f4199358fd087
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.136/deepflow-0.1.136.tgz
+    version: 0.1.136
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T07:22:57.280805589Z"
+    dependencies:
+    - condition: deepflow-agent.enabled
+      name: deepflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 4b62e0fc8905bdd04fcbdf541e0d88d6bbbe9f2a27d08cdc56f10dd085d9a064
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.135/deepflow-0.1.135.tgz
+    version: 0.1.135
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T07:01:34.023345215Z"
+    dependencies:
+    - condition: deepflow-agent.enabled
+      name: deepflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 7aacd24146ede08c9a5678efacb5625093fc25b91ada32139636152f6ed663ec
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.134/deepflow-0.1.134.tgz
+    version: 0.1.134
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T06:49:11.711087095Z"
+    dependencies:
+    - condition: deepflow-agent.enabled
+      name: deepflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: d1cf5c4eb31f5893f8336cc98b44005345c693f80f6f18ba8ed591ef9f877d7b
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.133/deepflow-0.1.133.tgz
+    version: 0.1.133
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T06:46:26.281601365Z"
+    dependencies:
+    - condition: deepflow-agent.enabled
+      name: deepflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 68b8cbc5b7f394b28852552937395a6e38abb86c6db34ecfb790732c4ce6c7a2
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.132/deepflow-0.1.132.tgz
+    version: 0.1.132
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T05:03:53.233328615Z"
+    dependencies:
+    - condition: deepflow-agent.enabled
+      name: deepflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 2484fa93523067bfdce4da688fcc94ef896ffdceb84de01cb762cd3899ca6a39
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-0.1.131/deepflow-0.1.131.tgz
+    version: 0.1.131
+  deepflow-agent:
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:51:56.883059588Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 9bad77e89600ae8a1b73045028fcc3dae85b3114b704513c17685697b18d6de8
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.154/deepflow-agent-0.1.154.tgz
+    version: 0.1.154
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:48:15.946958675Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 69319f3319765b41875325d2bfc83b31c63a1017bfa6b79c5d47734ddb8fc0db
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.153/deepflow-agent-0.1.153.tgz
+    version: 0.1.153
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:47:11.20139161Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 061f8c43d59db181ad9647c451ad9383ef992501f1d5e97dbd2236984db35949
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.152/deepflow-agent-0.1.152.tgz
+    version: 0.1.152
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:16:20.124354604Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: c1fc2b12c2eae054631b9d95898c0d3ea91972c4d947da03a5068a86de52b12e
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.151/deepflow-agent-0.1.151.tgz
+    version: 0.1.151
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:13:31.314632867Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 5883ff83b41015b7b3e9ed703c2a1dc83548bab511f6ee0ae8651e11062e6537
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.150/deepflow-agent-0.1.150.tgz
+    version: 0.1.150
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T08:00:47.557167922Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 005864495b1ccc874475330fc9ee4834ac1638deee9268961ef8f3f5555d2c3c
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.147/deepflow-agent-0.1.147.tgz
+    version: 0.1.147
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:59:27.354062896Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: b4662fd9a4eec4b4af3603a2978b936bee40fb5a2d52ded5a232679b244164e1
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.146/deepflow-agent-0.1.146.tgz
+    version: 0.1.146
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:50:29.7260195Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 7307ba79d5fd2fbdd18f68775f5cdd3cfe4e99ee8c5855d86ee86ec1d4535b34
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.145/deepflow-agent-0.1.145.tgz
+    version: 0.1.145
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:41:51.194986642Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: ae2578336b5b82d2ffbe6938a61b1b4fac065f1ca93f13d18d2aa58e9e739000
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.144/deepflow-agent-0.1.144.tgz
+    version: 0.1.144
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:37:33.602240586Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 93a99fec2ff0448610bd4ab515e774a0602c886d9162056dcedbda48f414d126
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.143/deepflow-agent-0.1.143.tgz
+    version: 0.1.143
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:36:44.871441231Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 1f5cc4bcdfdd82af7bf16995a0a3d077684d19f0545bc29049bc9bb84ce721d2
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.142/deepflow-agent-0.1.142.tgz
+    version: 0.1.142
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:35:21.886557362Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: c73999f7309ca8efa9206c9796574975fba054b829164e2d5d1561de7a81288f
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.141/deepflow-agent-0.1.141.tgz
+    version: 0.1.141
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:31:20.397212954Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 1f5109fc1b61d12a3931e353e3cad451c0c9f75408e37656a3ee273b92c6a255
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.140/deepflow-agent-0.1.140.tgz
+    version: 0.1.140
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-27T07:12:12.087448327Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 1916b4569bbc5c7e5a493883e53cc3f483d37b826f99d42ee88a94d3d15a7cce
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.138/deepflow-agent-0.1.138.tgz
+    version: 0.1.138
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-22T03:00:15.657082139Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: e390897101538c2ad803337be1da24e849ddb9c2042b15298bd213544fc563d1
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.137/deepflow-agent-0.1.137.tgz
+    version: 0.1.137
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-21T05:19:12.971257901Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: a19520291f65255de3f20d47d56341b16986b88d56e573b3ef9b8dd335de197d
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.136/deepflow-agent-0.1.136.tgz
+    version: 0.1.136
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T07:22:57.410296123Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 348a4aadd3d3c9924aeedd6a292d5e0569abc1442c3ebe25f72e0e04e8bd709b
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.135/deepflow-agent-0.1.135.tgz
+    version: 0.1.135
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T07:01:34.159491547Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: ad311d71d9103e9d193008011aa36ca26fe3b04e31f1e9727950d62ffd0d4a65
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.134/deepflow-agent-0.1.134.tgz
+    version: 0.1.134
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T06:49:11.845626374Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: b164227ba477cf74db63f23359151598d4a63929b38d2efe5138a3c457e8de01
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.133/deepflow-agent-0.1.133.tgz
+    version: 0.1.133
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T06:46:26.41061513Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: dd33a8a4a74a233f2cbd5743e5984e822baadccfaf120dc2c7631e2716073ec5
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.132/deepflow-agent-0.1.132.tgz
+    version: 0.1.132
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-20T05:03:53.354080531Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 59e445792a326c28125993ff08878d5434d90f71787cbcf85daddef2f837f7a3
+    home: https://github.com/deepflowys/deepflow
+    keywords:
+    - deepflow
+    kubeVersion: '>=1.16.0-0'
+    name: deepflow-agent
+    sources:
+    - https://github.com/deepflowys/deepflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/deepflow-agent-0.1.131/deepflow-agent-0.1.131.tgz
+    version: 0.1.131
+  metaflow:
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T11:20:16.666522111Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: ab8aa457a1d4cf07adbebbfb2d1f8da0d7f72326a132fb65f0ba6e66b08a6d32
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.130/metaflow-0.1.130.tgz
+    version: 0.1.130
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T10:52:52.231056377Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: e2fe44b9fa0962b1c6b654267ecf96aa22dc0babaa5ef909f1f20b662a600a2f
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.129/metaflow-0.1.129.tgz
+    version: 0.1.129
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T10:45:59.551832153Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: a0ae6018a8fa8b070ce7dd95a718273cf5ed8a868e0b9822dbbe4fb0f1b903d1
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.128/metaflow-0.1.128.tgz
+    version: 0.1.128
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T10:05:50.627360119Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 54dfb45bd9d52380342f2489260aee5666c646995eaf6fb6187bb7cf927e3fc3
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.127/metaflow-0.1.127.tgz
+    version: 0.1.127
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T09:57:04.08766799Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: f47116a5416fed2328fe48a6c0de10ae1312d03fbd64b5e6598ba8281e71e672
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.126/metaflow-0.1.126.tgz
+    version: 0.1.126
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T02:25:12.715245011Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 872a904dc3c8d4ec102565144384175898ef8b1327d4667abdf5776c9abdec91
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.125/metaflow-0.1.125.tgz
+    version: 0.1.125
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-18T08:46:06.449609153Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 602820a63509a9c6149fb15f13adbbdf7d7cc06d228289b0e16d8f62f99291bd
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.124/metaflow-0.1.124.tgz
+    version: 0.1.124
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-18T05:03:51.68790134Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.32.*
+    description: An automated observability platform for cloud-native developers.
+    digest: 078a7bc3585fe161e5731fcf51b104e4222e55e0a1c51263ddf185d8d1ecbd65
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.122/metaflow-0.1.122.tgz
+    version: 0.1.122
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-18T03:49:38.322919767Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.*
+    description: An automated observability platform for cloud-native developers.
+    digest: dbfcbaaf75db3f3b6a8012debdfc654507abe33a41cca8220920153db4e9e72a
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.121/metaflow-0.1.121.tgz
+    version: 0.1.121
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-16T10:05:09.265846489Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: f8812a1b6e570cbd798d71d956f696bba65753b149ad62f7404e141fb8a88493
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.120/metaflow-0.1.120.tgz
+    version: 0.1.120
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:58:55.886937093Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 2a62aa0e8ec5b437508f884fa12cc2d4645158cd93dd983bf9464e3b41b5be1e
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.119/metaflow-0.1.119.tgz
+    version: 0.1.119
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:39:41.593016221Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: e5e5899bf77a775a7f248175b4ffc4c93f4508c550f8cc7835df13c2be1ca83a
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.118/metaflow-0.1.118.tgz
+    version: 0.1.118
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:36:06.478027607Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: e56d9cc957dcd1c93f72867b3ca4a8915cebeb58163728f8eba13e16fe76c4fa
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.117/metaflow-0.1.117.tgz
+    version: 0.1.117
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:33:47.879837993Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 5860a512dead67e874e9f2141a30b5860cd306d2a8ef4a2a09134135d66c9a81
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.116/metaflow-0.1.116.tgz
+    version: 0.1.116
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:04:37.081899071Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: ac6e7b34dc912e9c6430c185b56481e392bec49c25f2b14ce49d8d76caecae19
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.115/metaflow-0.1.115.tgz
+    version: 0.1.115
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T09:49:05.746996811Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 18a149d724abada39e32f4e87b255a7302731f64e18269afd5843581fe10fff3
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.114/metaflow-0.1.114.tgz
+    version: 0.1.114
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T08:56:58.50910077Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 1b1c9a93e92e317754258eca53d1f41785a49f3a1bf7685118be5439169da454
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.113/metaflow-0.1.113.tgz
+    version: 0.1.113
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T08:03:04.316021504Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 86164f17ead5aa8bddb7865dd9500bb7f3067e44a70896d90777d7a801612131
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.112/metaflow-0.1.112.tgz
+    version: 0.1.112
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T07:39:09.968735696Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 33185c8fca9456446417d6c66e99f57c8d40b3864a12420d65212d35eaef3beb
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.111/metaflow-0.1.111.tgz
+    version: 0.1.111
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T06:44:23.837423191Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: f8d1fcfa1c148d2ef08d341c910c6ab4b57198091d88140bda8f745b9380929a
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.110/metaflow-0.1.110.tgz
+    version: 0.1.110
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T05:57:17.580688293Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 0d522400b39fbd43fb598b8f8a579bf79e840611e8b05de1bc986e0debb4d3bd
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.109/metaflow-0.1.109.tgz
+    version: 0.1.109
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T02:37:26.944499064Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: b2758ff5d3a1e925e5b9b4fb97044a6e015bc340e3ae3a758d6dacc1f3c1b094
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.108/metaflow-0.1.108.tgz
+    version: 0.1.108
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-14T11:21:03.249859317Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 120c0c82db221aaa67b2e51ebda8f2107afd07ee17ef7b36694086616ee9df51
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.107/metaflow-0.1.107.tgz
+    version: 0.1.107
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-14T10:55:09.786638044Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 74e4365e14f783a06ac0689c2fc8699e7947c01c57f1ebe174433b9faf50711b
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.106/metaflow-0.1.106.tgz
+    version: 0.1.106
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-14T06:29:06.727128922Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 74365abfba360f6420667867a35c15811fa09c064e5d6f27309d339be749c0a9
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.105/metaflow-0.1.105.tgz
+    version: 0.1.105
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-13T11:58:29.992551271Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: aea7d95db77329dad6e8cc7afce0c3fa3b30c0f9b92009a43ee1d8eeabf441df
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.104/metaflow-0.1.104.tgz
+    version: 0.1.104
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-13T11:28:37.074573387Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: c874d78c9a0a67bc2383fe6a7245242da61b4de896cc47406813b8dcfce9976f
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.103/metaflow-0.1.103.tgz
+    version: 0.1.103
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-13T11:21:02.049507698Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 35b556ef1550b293b166b472227dc59f2efac360fd4e63311d53489113e769ed
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.102/metaflow-0.1.102.tgz
+    version: 0.1.102
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-11T05:58:43.16376988Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 1c07f21293ba5fbf47cc8551676bd0dae4144d672e86892a648f05aef79f41f5
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.101/metaflow-0.1.101.tgz
+    version: 0.1.101
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-11T03:24:28.283249048Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 0a49a3192ff6b5502aeb84a401ca22a620c69677125a7dcf25e705590272c27d
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.100/metaflow-0.1.100.tgz
+    version: 0.1.100
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-11T03:21:45.93973075Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: ff855338d9b2f2df6b635ed612d0ffc97f6820315c788a50ae1e3ebfb20ee836
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.99/metaflow-0.1.99.tgz
+    version: 0.1.99
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T11:21:03.976031494Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 5f1b24758d6509997f1ed1fd0467cfdfc42d0abf995e057cfb84357b7ab79260
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.98/metaflow-0.1.98.tgz
+    version: 0.1.98
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T11:15:35.760461767Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 3f2e628cbc5157410c42b020cae93e0dacc7cda745bec62a5b823094199374ed
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.97/metaflow-0.1.97.tgz
+    version: 0.1.97
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T11:13:26.346651476Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 20805ab8746e73ed04b0c507c59bf093609331a2c46b5a63167505800dc4f003
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.96/metaflow-0.1.96.tgz
+    version: 0.1.96
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T10:38:09.292223354Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: c0f50583788ac99042995eb2766a68420550e7737b18b75263a6ddcdc0acb324
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.95/metaflow-0.1.95.tgz
+    version: 0.1.95
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T10:36:34.883672283Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: dc62dc78effd8b36ab480512342e236408f4780a60d13f04ea4929b8ea7b170c
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.94/metaflow-0.1.94.tgz
+    version: 0.1.94
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T07:19:38.289988436Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: cd9ea60a97441fab0f8ef892c49b4f02a1237618ed2dda96e0f7944d731700bc
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.93/metaflow-0.1.93.tgz
+    version: 0.1.93
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T07:03:13.24210309Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 94c558a40e7a3e66bf0cb288ae2747d3e24732e8fb78f3174460ef9959aa982f
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.92/metaflow-0.1.92.tgz
+    version: 0.1.92
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T02:58:02.261694886Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: a119053a6ddf9234667949af122dab9f81b53f798bd7ea7a3363abd27625ffb4
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.89/metaflow-0.1.89.tgz
+    version: 0.1.89
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T10:13:02.101975167Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: cd630e8cb98ad03f8bf6f6c4a631b129409dbf8d23eed55928303b3048cd453a
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.88/metaflow-0.1.88.tgz
+    version: 0.1.88
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T10:05:41.210210486Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: d11d8b0e023c10f6c5c7c8db6211593f2afc2ae8415711150503028b895c41f9
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.87/metaflow-0.1.87.tgz
+    version: 0.1.87
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T09:46:33.958139906Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 065b1994e7c75328ab9085b5d32f909cecbdda94350a1f07e5ce5a889527e143
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.86/metaflow-0.1.86.tgz
+    version: 0.1.86
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T08:37:21.295454408Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: An automated observability platform for cloud-native developers.
+    digest: 6c6f77e6d36174e8da8f7cfeff72a0cfe217fe2b53c34ceffa690311c880bf57
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.85/metaflow-0.1.85.tgz
+    version: 0.1.85
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-07T06:55:01.044211733Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 73db7dd0ff6d9b3ad9882420b3cf16ee5a80a56f9823ba75c473eb93f78e7e03
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.84/metaflow-0.1.84.tgz
+    version: 0.1.84
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-07T05:43:03.683535832Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 6292e2f3ee9f29ba19131e99283e0f8522be57ef0260bf27e9bbbde1f241e2aa
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.83/metaflow-0.1.83.tgz
+    version: 0.1.83
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-06T03:45:43.016888618Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 9db408f47163c68e31bbfcdeb602783122b6067897d3540c269d0347d80a55da
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.82/metaflow-0.1.82.tgz
+    version: 0.1.82
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-06T02:37:02.326793783Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 483a1799948c6c1722b782f1dee514e08e57eec87bd317052efd0cfc56a014f2
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.81/metaflow-0.1.81.tgz
+    version: 0.1.81
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-05T11:33:43.55790955Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 209b4681d60058bccf51f5baf223ca1f6894c11a52b271d2182544039759049f
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.80/metaflow-0.1.80.tgz
+    version: 0.1.80
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-05T08:14:14.177711924Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: b32256a4773879dba0e9817ab79d0ee1017474ac29790c2c9c88ab37b1c0b17f
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.79/metaflow-0.1.79.tgz
+    version: 0.1.79
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-05T05:17:58.740159926Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 4c44beae19de03bd7354a59f0990a4fed8153048732f0bc4f21d1ab31ee5b8f6
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.77/metaflow-0.1.77.tgz
+    version: 0.1.77
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:28:30.914009003Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 443362f58c4d959d6391921d1043c4ba495992adfc5f1c79bba5a8de7fdf7c0f
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.76/metaflow-0.1.76.tgz
+    version: 0.1.76
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:22:09.197288082Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: bce0eff04b11055e6c5d36947fae1fc8053644a559ac61dbfef63ab53ba18400
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.75/metaflow-0.1.75.tgz
+    version: 0.1.75
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:20:57.607373991Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: fb84b7fd641a439538b4b702378007bae94f90a5bfa44113b3f27cd70faa3c9b
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.74/metaflow-0.1.74.tgz
+    version: 0.1.74
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:01:11.498306348Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 7230c21953743d36b615c8dd680352f2e4bf2be98905e691203efad5fe9b3764
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.73/metaflow-0.1.73.tgz
+    version: 0.1.73
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T02:52:21.231521689Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: cd1c267a2c662a4261bb34f22b9f08c7fa83e239d487f22b8c6a9d94a8106f51
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.72/metaflow-0.1.72.tgz
+    version: 0.1.72
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T09:30:33.409843546Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 58aee200634c2de941a0519dd4553ca28574c6bb27828484c549f18f82018e22
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.71/metaflow-0.1.71.tgz
+    version: 0.1.71
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T09:19:32.095235326Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: b08406b83a2716bce237060ab7d9065bfeda90f4c9831ef1d019995c20bbcb21
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.70/metaflow-0.1.70.tgz
+    version: 0.1.70
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T07:17:15.182652888Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: de87a5c5081941b863ba4b1dd4f018cd30692a51ebd4535bf8f584b8a2811afd
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.69/metaflow-0.1.69.tgz
+    version: 0.1.69
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T07:15:23.40644568Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 39ade273f4d64bb0925967a113810979c992c8ed55e185e7f63aae847b3c7d98
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.68/metaflow-0.1.68.tgz
+    version: 0.1.68
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T04:38:48.457235659Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 459b6d5a42ba409c9ec6263187cdcec9432e96839cf3170bc903dc646853e8aa
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.67/metaflow-0.1.67.tgz
+    version: 0.1.67
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T03:31:18.444590246Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 8dd6b2c9c8462989d0afa6566b44ff669ebf491361ba8ebaae148901cae6f9cc
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.66/metaflow-0.1.66.tgz
+    version: 0.1.66
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T02:12:00.893638709Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 4dfe26ec852e86d998e5faad96c353bbb52ae74c4b480c9fff3dc751e49de5c8
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.65/metaflow-0.1.65.tgz
+    version: 0.1.65
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T06:41:39.926425058Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: ebd5cd5a2deb3d6e9dcd7a66d84eb40e7d5af30e53481c6bfca7a21dc7a1ff70
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.64/metaflow-0.1.64.tgz
+    version: 0.1.64
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T05:04:21.286197799Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 5c5fac1a074af3abea2174b60a009d450ff5fe5f74237a3f1555fba9a69aa05d
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.63/metaflow-0.1.63.tgz
+    version: 0.1.63
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T04:13:34.386702275Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: e54bcc98c62be26f13954e872d73b984409a2281cfd79a44c9886ac5d524b29f
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.62/metaflow-0.1.62.tgz
+    version: 0.1.62
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T04:09:55.399288577Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: aec060612bd97bf64e71deef6f68d21b6411ec1b66bef92fb898900b3f4e2cbe
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.61/metaflow-0.1.61.tgz
+    version: 0.1.61
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T04:04:42.299502814Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 7640d674e546898be59462457561cc79bfb811d219610757527b81a279ff35b4
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.60/metaflow-0.1.60.tgz
+    version: 0.1.60
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:54:42.932801762Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: b6979f577f6a809f4a03de1202c9ff9bf2ace707e8b5373551730ae8bd3ed1c8
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.59/metaflow-0.1.59.tgz
+    version: 0.1.59
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:37:16.838322691Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 415a406387a48066abebf17889724332f16bf3bdf097188974f789f07e5ebf61
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.58/metaflow-0.1.58.tgz
+    version: 0.1.58
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:29:43.466815574Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 83c5a478293626bec7764066a77d68347ff452104d384eb0167773d21b823f77
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.57/metaflow-0.1.57.tgz
+    version: 0.1.57
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:11:49.936573582Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 86a0c6c2e809a28aec39d2d7732b57e33bc3622b1723c30a3dc6ca29b60637f8
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.56/metaflow-0.1.56.tgz
+    version: 0.1.56
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T02:37:35.191461972Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 7e279b08bab3461161ffb39de450348bf7dd29a84b23c39c804bbc9abe23bfb7
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.55/metaflow-0.1.55.tgz
+    version: 0.1.55
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T14:30:52.296094208Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: f5dac5e2ca0217683ebe775ac80e79b6b900ddc03e743c8440f4673d5aa37acd
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.53/metaflow-0.1.53.tgz
+    version: 0.1.53
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:28:45.887697183Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 986c89b8e545d8ccfb283c9b24bd249a4ffa6e8060ca7f34cd57d90ab34ce383
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.52/metaflow-0.1.52.tgz
+    version: 0.1.52
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:28:04.216903264Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: d93bbe429777940c2d31349ae8dc32eaf25ebceed8002f2ad8053c2168a33962
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.51/metaflow-0.1.51.tgz
+    version: 0.1.51
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:17:20.862610581Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: e249f31026b9abb196e7298a8e23b11769594bad15e6cce336547f780b66fbfb
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.50/metaflow-0.1.50.tgz
+    version: 0.1.50
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:12:20.932961077Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 7f07a5a956be9f16874ae290fe4703320f0ad42226ea26e8f399dd36a3d707b0
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.49/metaflow-0.1.49.tgz
+    version: 0.1.49
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T11:46:06.259203036Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: d547e05303150d88a21cf04a172a4bcd802f61735cea53e2442431aed8eb5742
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.48/metaflow-0.1.48.tgz
+    version: 0.1.48
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T08:53:10.841456396Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 02081121f1060f45bc7b6fe04a74d839301b8aadaaf8952b99c7ad1e2c455dad
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.47/metaflow-0.1.47.tgz
+    version: 0.1.47
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T03:33:39.466817352Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: baecf01ad27c8da3e7349baf82320c7cb1b4e2a063d91d50fe6f507c326dd1cc
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.46/metaflow-0.1.46.tgz
+    version: 0.1.46
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T03:28:45.09632258Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: f12e520557e3510e98f7b4b1a4304f59e04410d277ab6303a2bd68530717e81e
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.45/metaflow-0.1.45.tgz
+    version: 0.1.45
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T03:28:30.291597352Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 67e4e385a188b23ed6de0f20a354dc2b9db4e06d71ffe2abb8ab25e678a19688
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.44/metaflow-0.1.44.tgz
+    version: 0.1.44
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T02:47:14.998715968Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: a0e93a94ef8a71f293b594e9ad9500ead904b69e57999fa0c7264bbd0d98e4d2
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.43/metaflow-0.1.43.tgz
+    version: 0.1.43
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T02:37:48.611006118Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 7bb06453eac7a5b20638d9287bcca18b4ff492883a4e206c267da883644d10de
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.42/metaflow-0.1.42.tgz
+    version: 0.1.42
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T02:06:04.230224561Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: a54c6f2faec9d062e134ad0314fa62097723f0ca236e942669d4d63c8e76da72
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.41/metaflow-0.1.41.tgz
+    version: 0.1.41
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T11:32:51.541357638Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 8c3ebe0ae81739e7ea637810dedfe71ad00e63e5dbfb8b78370c3f078648cf67
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.40/metaflow-0.1.40.tgz
+    version: 0.1.40
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T10:29:54.423588122Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: d608ffb6da55cfac0c8c5a4d010b253d44ce09322e0645be5e9741c018e9b4e8
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.39/metaflow-0.1.39.tgz
+    version: 0.1.39
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T08:06:00.201295641Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 63c3d4e5b9944c39ba5050853cb17fa27ccaf1dabf3fbb5294722db71aded24a
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.38/metaflow-0.1.38.tgz
+    version: 0.1.38
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T06:53:22.781829678Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 208baf66e62c04c614f97375ac2818c947b0259b6f4068de459c21ab5432e416
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.37/metaflow-0.1.37.tgz
+    version: 0.1.37
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T06:22:38.594151535Z"
+    dependencies:
+    - condition: metaflow-agent.enabled
+      name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 8706930eede909e5b3e9f00ce93206b45f03b4d8d65fd67c765fba228553d2e9
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.36/metaflow-0.1.36.tgz
+    version: 0.1.36
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T05:10:44.009334907Z"
+    dependencies:
+    - name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    - name: grafana
+      repository: https://grafana.github.io/helm-charts
+      version: 6.31.1
+    description: A Helm chart for Kubernetes
+    digest: 5514c82aa5669c7581200b3ab60be90ff20414cd25218a7739f42a178d63b1af
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.35/metaflow-0.1.35.tgz
+    version: 0.1.35
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-27T11:01:20.924503688Z"
+    dependencies:
+    - name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: A Helm chart for Kubernetes
+    digest: 4a248047190ed6ab2bab2138894ad129eb43c4126321546c7161a8e73c07bd2f
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.34/metaflow-0.1.34.tgz
+    version: 0.1.34
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-27T10:33:37.526603016Z"
+    dependencies:
+    - name: metaflow-agent
+      repository: ""
+      version: '*.*.*'
+    - name: clickhouse
+      repository: ""
+      version: '*.*.*'
+    - name: mysql
+      repository: ""
+      version: '*.*.*'
+    description: A Helm chart for Kubernetes
+    digest: 7fb07be842f7c6849ca243c16ad7ace1b860a6cd9be2a7aa6f8f9f8023c307b0
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-0.1.33/metaflow-0.1.33.tgz
+    version: 0.1.33
+  metaflow-agent:
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T11:20:16.808657273Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: c15e27ea13115c0b6e4df9d872509a6ddb5f59977f370385ba88af6b6e139ee2
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.130/metaflow-agent-0.1.130.tgz
+    version: 0.1.130
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T10:52:52.383496275Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 9c78bfbef50f183494f5acca14463ed7622869ab8ccb60175d8fe738bdb08c38
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.129/metaflow-agent-0.1.129.tgz
+    version: 0.1.129
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T10:45:59.658417983Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 68ac1accd78d857a4b05478689baa6130addd10b49a897438b6bf2b4244b1741
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.128/metaflow-agent-0.1.128.tgz
+    version: 0.1.128
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T10:05:50.772416288Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 14b557154e08b02dc406fcaf6c855a048645f459e41262f7314a814f2e7ac876
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.127/metaflow-agent-0.1.127.tgz
+    version: 0.1.127
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T09:57:04.234461139Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: c28f934a72f0f7c9ae89c81fe8b6a126121c89f8e367366fad33a21aefd13352
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.126/metaflow-agent-0.1.126.tgz
+    version: 0.1.126
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-19T02:25:12.857323686Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 2f74ac2cee0de0cb9560bb105de5991f28c4f82c7ed48471f7f55ccd13368440
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.125/metaflow-agent-0.1.125.tgz
+    version: 0.1.125
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-18T08:46:06.710248508Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: a1290317f24651f1aff3b40c2946a25936fff720823942af386a77c0431b9c19
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.124/metaflow-agent-0.1.124.tgz
+    version: 0.1.124
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-18T05:03:51.812230083Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 777bf10f875a06c7e66a8d1cbe140a9cf32a0893d62c94d60e3500d392a2944e
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.122/metaflow-agent-0.1.122.tgz
+    version: 0.1.122
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-18T03:49:38.469410057Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: d3e1e7f6b0e1852f0919359ce5e275f2b83355f63ba4b34aab5307259676b839
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.121/metaflow-agent-0.1.121.tgz
+    version: 0.1.121
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-16T10:05:09.384436528Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 70fba4fc11990fe41175f1c7d8607d70bade0503c70e8a858e7512d9183ae49d
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.120/metaflow-agent-0.1.120.tgz
+    version: 0.1.120
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:58:56.15596853Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 2a47b1c98fcf48a9300231dd01e4b7b03cce35c20dc7a4c21d92b7466b921e19
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.119/metaflow-agent-0.1.119.tgz
+    version: 0.1.119
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:39:41.735237847Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 64176bb534d9a90fa0195630bea59e458de4e90eb14412f87496d3689cd9f99f
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.118/metaflow-agent-0.1.118.tgz
+    version: 0.1.118
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:36:06.617721926Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 7198d237317868f5961405aa7a32c3c6ff195341ed8234632b3b9855b00e6649
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.117/metaflow-agent-0.1.117.tgz
+    version: 0.1.117
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:33:47.993705126Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: e702ae8a6f68a57dafd027701908ce2f78cde6d6e3705b83b4deb7555d751e9c
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.116/metaflow-agent-0.1.116.tgz
+    version: 0.1.116
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T10:04:37.187237144Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 63b2b2f456d0a2b361bd9aaa3e3427e4e18d03739c5d6711aa0795f6a2058e3e
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.115/metaflow-agent-0.1.115.tgz
+    version: 0.1.115
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T09:49:06.028916303Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 1fa082451e45d5ccdd3b3fe615852228682eb4b69fb7b63b73ca1fdcf7953249
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.114/metaflow-agent-0.1.114.tgz
+    version: 0.1.114
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T08:56:58.623102039Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: fe428bc5d2abfebff0b2fc3327acae5d66cefce5b37617f86e051bbee0ab58fe
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.113/metaflow-agent-0.1.113.tgz
+    version: 0.1.113
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T08:03:04.458917055Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 3e645e667ea63c50acd0066f6255f4b46917c73ae96bf6ed9db0b64552f70e55
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.112/metaflow-agent-0.1.112.tgz
+    version: 0.1.112
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T07:39:10.145681099Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: c3039a15ee8dd3ceeefe165824f6e5bad26611a80f0c89cd8388753dd776b3d1
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.111/metaflow-agent-0.1.111.tgz
+    version: 0.1.111
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T06:44:23.960813076Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: f3ca2f8cbfab068f68a42457ea88da18752f67c8fb39e06191a97482dabc737d
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.110/metaflow-agent-0.1.110.tgz
+    version: 0.1.110
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T05:57:17.689071462Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 1accdf9aeea76549bcca1b3d2e4130290993f3aff2f7509b46d52a83bfa59649
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.109/metaflow-agent-0.1.109.tgz
+    version: 0.1.109
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-15T02:37:27.119312826Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 1b5743a6acf05eb9a7635c7c1df7b1917115d17a51aeef65ad461639795f05a0
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.108/metaflow-agent-0.1.108.tgz
+    version: 0.1.108
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-14T11:21:03.380791328Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: f95828b775dc1fc18fe47790535d00f85137f98433ac2fed5389263120212691
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.107/metaflow-agent-0.1.107.tgz
+    version: 0.1.107
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-14T10:55:09.896052304Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 7cc13b3d56362f7cc09f885c84079ef8055278e80b7973f51fcb98a3c88374a7
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.106/metaflow-agent-0.1.106.tgz
+    version: 0.1.106
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-14T06:29:06.898998731Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: ed1f9857eaa09e8613d7685c7ddb714db4bcfa697805edeb45b8a8dc38c77089
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.105/metaflow-agent-0.1.105.tgz
+    version: 0.1.105
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-13T11:58:30.12591803Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 7f1f272954e912c86151c11f1a94ae17c1eca743f5fb4f14ede2d8337ab0e50a
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.104/metaflow-agent-0.1.104.tgz
+    version: 0.1.104
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-13T11:28:37.323184978Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: b679fa6089685b280e6da114e0ed41930332236eb5089730e0524aefec1d5046
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.103/metaflow-agent-0.1.103.tgz
+    version: 0.1.103
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-13T11:21:02.21356881Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 139b32eb7a9af404e091e93eda88f5b15b24e01561cd123f7b7da9f88bc88b9f
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.102/metaflow-agent-0.1.102.tgz
+    version: 0.1.102
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-11T05:58:43.267688004Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 76d9d3e6952424960ce2e6c8bca648f1a055b94a8dba60218e28ddb37bce6db5
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.101/metaflow-agent-0.1.101.tgz
+    version: 0.1.101
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-11T03:24:28.447652281Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 927b4c08ce52834b3280d805e0772aec0217575f0fd04d32221c48ba8485700b
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.100/metaflow-agent-0.1.100.tgz
+    version: 0.1.100
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-11T03:21:46.099218754Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: cf6aef65aca70164ccc5b300cb7c0c3992fdb25ab6c8535eb2f340b62c7af0b1
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.99/metaflow-agent-0.1.99.tgz
+    version: 0.1.99
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T11:21:04.144090308Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: ade07feb3f2197073787d9df66577ce8cbf4efdbd30a93776e8f09b5c01893f1
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.98/metaflow-agent-0.1.98.tgz
+    version: 0.1.98
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T11:15:35.927750834Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 4429cb61976c8eb67ae4c9f71a735e542d52d27d2acbc585a876be85eea00f5e
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.97/metaflow-agent-0.1.97.tgz
+    version: 0.1.97
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T11:13:26.476021795Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: c31f007d6602d779be1828dc932160e11de850b8e1c38db6b2668adde76a12ae
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.96/metaflow-agent-0.1.96.tgz
+    version: 0.1.96
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T10:38:09.548835316Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 4066ccb99dd99c9f85154b7f973dfec1e4bb4949c8c7bef3d0d3cc67cc33c91e
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.95/metaflow-agent-0.1.95.tgz
+    version: 0.1.95
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T10:36:35.139913491Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: c16874237b4f243fdcb7ad115d68987c768678b7cf12bdcf51d92802bc42f42d
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.94/metaflow-agent-0.1.94.tgz
+    version: 0.1.94
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T07:19:38.443273696Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 903ddbcdcd514689895cea6cd97575e874b4e0dbefcea6650e0c2ef9bbc04feb
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.93/metaflow-agent-0.1.93.tgz
+    version: 0.1.93
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T07:03:13.356500274Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 5f6fa9cca038750514ad4603817b1b9e773f460429632ddec840ab7ba5970679
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.92/metaflow-agent-0.1.92.tgz
+    version: 0.1.92
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-08T02:58:02.362649573Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 145d82934f9ccdc4f2a26d82add9f88013609f860494f804b2def93a746e868a
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.89/metaflow-agent-0.1.89.tgz
+    version: 0.1.89
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T10:13:02.260538138Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 211cc73685f3d65ec12d09b4de1221c1896c12873990158f01a522ae63d0d939
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.88/metaflow-agent-0.1.88.tgz
+    version: 0.1.88
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T10:05:41.326033988Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 0afab3549082798db9ad96f21690948be483cbb703da46cb010f76cff03209ae
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.87/metaflow-agent-0.1.87.tgz
+    version: 0.1.87
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T09:46:34.102165002Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 4f3e66ca6fdfd5f3fa42b4a1d59fb52983e5b80c61eed84cbee929af1c781df0
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.86/metaflow-agent-0.1.86.tgz
+    version: 0.1.86
+  - apiVersion: v2
+    appVersion: 6.1.1
+    created: "2022-07-07T08:37:21.441420272Z"
+    description: An automated observability platform for cloud-native developers.
+    digest: 442dc863ac5730e8da9374b7c375fb7350c7dc63ec69fdead0921cf07a878ac7
+    home: https://github.com/metaflowys/metaflow
+    keywords:
+    - metaflow
+    kubeVersion: '>=1.16.0-0'
+    name: metaflow-agent
+    sources:
+    - https://github.com/metaflowys/metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.85/metaflow-agent-0.1.85.tgz
+    version: 0.1.85
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-07T06:55:01.467306314Z"
+    description: A Helm chart for Kubernetes
+    digest: 495fb00f615a1be343055c22c4d6a47045ebab6b3fc55285041eb2816345519e
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.84/metaflow-agent-0.1.84.tgz
+    version: 0.1.84
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-07T05:43:03.829409473Z"
+    description: A Helm chart for Kubernetes
+    digest: 315dde65eb643b478d1ba53a9d3a880c8b3e1e97ae5d6211699bfd7d6e1533d9
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.83/metaflow-agent-0.1.83.tgz
+    version: 0.1.83
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-06T03:45:43.148487848Z"
+    description: A Helm chart for Kubernetes
+    digest: 64b1699e7601bd14812074a4e50790315a6b73db4c7d5e1f03a8c92362f7899d
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.82/metaflow-agent-0.1.82.tgz
+    version: 0.1.82
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-06T02:37:02.505396184Z"
+    description: A Helm chart for Kubernetes
+    digest: 6ee61bb257a78eace39f1c0465087b1951ac9134121e4b4512b5004bef34f1b2
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.81/metaflow-agent-0.1.81.tgz
+    version: 0.1.81
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-05T11:33:43.694482052Z"
+    description: A Helm chart for Kubernetes
+    digest: dce294c5d8129daf7a09c055d73524647fbdfaf14d254f9b72ee15968f3c45b2
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.80/metaflow-agent-0.1.80.tgz
+    version: 0.1.80
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-05T08:14:14.434738638Z"
+    description: A Helm chart for Kubernetes
+    digest: 86e9bed1869ec2630deccb777663fd475b3337dc41f9a5d5ab6704a18ee77280
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.79/metaflow-agent-0.1.79.tgz
+    version: 0.1.79
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-05T05:17:58.878626538Z"
+    description: A Helm chart for Kubernetes
+    digest: 9945e7a9e643e002e5942b8e3af227a810af1b867c2b571af5f47d35276c01e4
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.77/metaflow-agent-0.1.77.tgz
+    version: 0.1.77
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:28:31.014728408Z"
+    description: A Helm chart for Kubernetes
+    digest: b7b9962f902b6503168a48cc1e4f67c721c108ee71880a86c5b1a98abae06592
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.76/metaflow-agent-0.1.76.tgz
+    version: 0.1.76
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:22:09.362736873Z"
+    description: A Helm chart for Kubernetes
+    digest: 17d38703a8fe84ea138a1d856f82628f52acd68193e2edae730acffedd808a04
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.75/metaflow-agent-0.1.75.tgz
+    version: 0.1.75
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:20:57.719966825Z"
+    description: A Helm chart for Kubernetes
+    digest: 148d726f5b830215a862e5bff6c44718844097e9c24cf48864616c74a1a454e3
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.74/metaflow-agent-0.1.74.tgz
+    version: 0.1.74
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T03:01:11.622106805Z"
+    description: A Helm chart for Kubernetes
+    digest: a04a92bd42861fc0353a04fd93527be9f6a7c70c361e60deced50559e851ce07
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.73/metaflow-agent-0.1.73.tgz
+    version: 0.1.73
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-04T02:52:21.348825995Z"
+    description: A Helm chart for Kubernetes
+    digest: 9d8a85532354da6dcf1a1211667a6a4aa4c5838d860b7c166ede24b9a3f0703b
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.72/metaflow-agent-0.1.72.tgz
+    version: 0.1.72
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T09:30:33.526595233Z"
+    description: A Helm chart for Kubernetes
+    digest: d5353ef005c82d42317c2316d96c7ea4b5e6615e7a5efa9fdf9ae69275ae5c67
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.71/metaflow-agent-0.1.71.tgz
+    version: 0.1.71
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T09:19:32.233194904Z"
+    description: A Helm chart for Kubernetes
+    digest: 504965dbc0485aaac145f05cb05a631a977820ed768a2a2a5f0ba52244b1f2cc
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.70/metaflow-agent-0.1.70.tgz
+    version: 0.1.70
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T07:17:15.309986896Z"
+    description: A Helm chart for Kubernetes
+    digest: 8a7b2c17d5967828a7c747afe612889a17f7256012f219a6310e77eccb8bc5fb
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.69/metaflow-agent-0.1.69.tgz
+    version: 0.1.69
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T07:15:23.53163118Z"
+    description: A Helm chart for Kubernetes
+    digest: aae200c17ac1351895c58cc28cae9457e6ee2775e7ebd8f643383b678e811954
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.68/metaflow-agent-0.1.68.tgz
+    version: 0.1.68
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T04:38:48.691908264Z"
+    description: A Helm chart for Kubernetes
+    digest: e281b7aa438867e0f9a28e3f8d2f511cc884331498201bebe5cec8cd7e12f2af
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.67/metaflow-agent-0.1.67.tgz
+    version: 0.1.67
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T03:31:18.577925744Z"
+    description: A Helm chart for Kubernetes
+    digest: 6f606da612b8b28bebd37778d976e8fa683d18ad47e3d26671d05203ed3082ee
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.66/metaflow-agent-0.1.66.tgz
+    version: 0.1.66
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-07-01T02:12:01.084211234Z"
+    description: A Helm chart for Kubernetes
+    digest: c723799f2f7677f14b109dc0c0e81b66b021a0f58db8971c20ab6434782f3086
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.65/metaflow-agent-0.1.65.tgz
+    version: 0.1.65
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T06:41:40.051413382Z"
+    description: A Helm chart for Kubernetes
+    digest: 1a35c8e19e5375f82624834ba9656978e1b207dc9b38f8e38e772c3989a665e6
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.64/metaflow-agent-0.1.64.tgz
+    version: 0.1.64
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T05:04:21.540315734Z"
+    description: A Helm chart for Kubernetes
+    digest: 34829f101dec8a39ab4a9624373ba9f901c73e5c72dc378bf173d1f7a43ef283
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.63/metaflow-agent-0.1.63.tgz
+    version: 0.1.63
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T04:13:34.68527349Z"
+    description: A Helm chart for Kubernetes
+    digest: fe8a35004eb610f412b62bbf6c05cac6dcecf8e130e1797110500ab8da31297d
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.62/metaflow-agent-0.1.62.tgz
+    version: 0.1.62
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T04:09:55.648397537Z"
+    description: A Helm chart for Kubernetes
+    digest: 038cee5ac57764d487ee902cdd90e12790e9f62b0922c1ee1da42b76ee8b1cff
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.61/metaflow-agent-0.1.61.tgz
+    version: 0.1.61
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T04:04:42.528554261Z"
+    description: A Helm chart for Kubernetes
+    digest: b83796d396af2daf9fde2bf3f18a7321f95369991b1fa52a30849ee07d9db51c
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.60/metaflow-agent-0.1.60.tgz
+    version: 0.1.60
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:54:43.051082776Z"
+    description: A Helm chart for Kubernetes
+    digest: cb5cf50594d4248d4b43a707199c0c3fb733c0054e0da34acde13003ae1f1cf1
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.59/metaflow-agent-0.1.59.tgz
+    version: 0.1.59
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:37:17.093487304Z"
+    description: A Helm chart for Kubernetes
+    digest: 4511d8019c82af3c61101e95d7eb1aaad7ade813164501f2b74ac98c049ef599
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.58/metaflow-agent-0.1.58.tgz
+    version: 0.1.58
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:29:43.592563911Z"
+    description: A Helm chart for Kubernetes
+    digest: f31ff0ea80cc431c33d7a35b774d660484c97d6dc5b0cb751d1e5e6c9272f325
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.57/metaflow-agent-0.1.57.tgz
+    version: 0.1.57
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T03:11:50.069779191Z"
+    description: A Helm chart for Kubernetes
+    digest: 1f37bc7355bbf65c66ae69d3f72fa9a5b9bd301e46050baa6814b2f3e21993c8
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.56/metaflow-agent-0.1.56.tgz
+    version: 0.1.56
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-30T02:37:35.315313762Z"
+    description: A Helm chart for Kubernetes
+    digest: 2b9a14c8df5b75e6ba3d75ec8fc36ac2fa4e6352db209d20d86af73f465ac376
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.55/metaflow-agent-0.1.55.tgz
+    version: 0.1.55
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T14:30:52.400934939Z"
+    description: A Helm chart for Kubernetes
+    digest: af773e235d9418f095ebe29479f25445c31ad38e62f16fde682d47c1b6f55a3e
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.53/metaflow-agent-0.1.53.tgz
+    version: 0.1.53
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:28:46.059190481Z"
+    description: A Helm chart for Kubernetes
+    digest: 75eae87bbeae388266b5b5ffbac9066a930f9863f39c4fa3057eb2c9f0f6a3ef
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.52/metaflow-agent-0.1.52.tgz
+    version: 0.1.52
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:28:04.383404406Z"
+    description: A Helm chart for Kubernetes
+    digest: 7339fc99ec189fd6b05583c8c79cf6eb6681e1162f4bb81c8bc4c88994c26c6a
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.51/metaflow-agent-0.1.51.tgz
+    version: 0.1.51
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:17:21.143177095Z"
+    description: A Helm chart for Kubernetes
+    digest: 04d2f5893fda759fb9fe150ab4dd7317212789f24d191dd68c0fd9188d69b33b
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.50/metaflow-agent-0.1.50.tgz
+    version: 0.1.50
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T12:12:21.048874942Z"
+    description: A Helm chart for Kubernetes
+    digest: 38b644dbd1ae3e9f5e1420d0e5c713c1286058c3b3f6ef03a1bbccf2f695635a
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.49/metaflow-agent-0.1.49.tgz
+    version: 0.1.49
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T11:46:06.417094799Z"
+    description: A Helm chart for Kubernetes
+    digest: daa3030322464f7525ab1b3054a19a378edaee11860cdc956e7d6ca223f2a28b
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.48/metaflow-agent-0.1.48.tgz
+    version: 0.1.48
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T08:53:11.072540285Z"
+    description: A Helm chart for Kubernetes
+    digest: 7570042092ccd845b14d3f7a8e6140f92618bc0fcfebf4952ffff343e6f2d4ac
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.47/metaflow-agent-0.1.47.tgz
+    version: 0.1.47
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T03:33:39.718410422Z"
+    description: A Helm chart for Kubernetes
+    digest: 10c4dcd07b43f6f6fe0170d0f92a0497f9ee30053c7edb803a407ad7e7f43b06
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.46/metaflow-agent-0.1.46.tgz
+    version: 0.1.46
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T03:28:45.200077033Z"
+    description: A Helm chart for Kubernetes
+    digest: 1484ca08ba3ecbd55d962782265439620cb1b556bd1cc4274b6fad046cbfd971
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.45/metaflow-agent-0.1.45.tgz
+    version: 0.1.45
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T03:28:30.41654697Z"
+    description: A Helm chart for Kubernetes
+    digest: 5d30e7b6e8d9901d57a7e292c2824b08d81bffeda9ad683136c7b446fb1b6a85
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.44/metaflow-agent-0.1.44.tgz
+    version: 0.1.44
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T02:47:15.105397784Z"
+    description: A Helm chart for Kubernetes
+    digest: 1fc6fa18294129db5eeaf5503eced9d047c4de837f619706be0e887fc6b01c53
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.43/metaflow-agent-0.1.43.tgz
+    version: 0.1.43
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T02:37:48.730550105Z"
+    description: A Helm chart for Kubernetes
+    digest: 6fa1d5f87b1d30772d5d2861963d51a06fd7c9eee7bac85b89260d860cbe1b40
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.42/metaflow-agent-0.1.42.tgz
+    version: 0.1.42
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-29T02:06:04.379981972Z"
+    description: A Helm chart for Kubernetes
+    digest: ca382fa4793e7655ae98b127ec491de9284254644b294e49c440e54fe896d471
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.41/metaflow-agent-0.1.41.tgz
+    version: 0.1.41
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T11:32:51.649986781Z"
+    description: A Helm chart for Kubernetes
+    digest: 58c6b1105b517b3c4ed2b8a3b485d839e7ad3c7b2509df9d90d7e273f6d72446
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.40/metaflow-agent-0.1.40.tgz
+    version: 0.1.40
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T10:29:54.587080246Z"
+    description: A Helm chart for Kubernetes
+    digest: 0da9d6fcd575843ec23b62b9e59f731c64a88b01d77373082447f66f74edc984
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.39/metaflow-agent-0.1.39.tgz
+    version: 0.1.39
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T08:06:00.482899882Z"
+    description: A Helm chart for Kubernetes
+    digest: 3ed0c270fb70c801cf96138c8efac0b9df3097a315ab545edcfad9018770bfbd
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.38/metaflow-agent-0.1.38.tgz
+    version: 0.1.38
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T06:53:22.923338808Z"
+    description: A Helm chart for Kubernetes
+    digest: 65ba505bb678a5f7dd7655c98d25baaa396413a0ff8a5bc247b9dbd17b5a8934
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.37/metaflow-agent-0.1.37.tgz
+    version: 0.1.37
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T06:22:38.726522856Z"
+    description: A Helm chart for Kubernetes
+    digest: 9dc97d3d05114b79bd0437bf2cc5dfaafd81af57576eb5966a1750f9e84d1fb2
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.36/metaflow-agent-0.1.36.tgz
+    version: 0.1.36
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-28T05:10:44.156112247Z"
+    description: A Helm chart for Kubernetes
+    digest: a69779b74367506c6c24dc2829a38df37903b19203edaaaba760e31675f36203
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.35/metaflow-agent-0.1.35.tgz
+    version: 0.1.35
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-27T11:01:21.047768774Z"
+    description: A Helm chart for Kubernetes
+    digest: 58a44d2e6a2e5b93f748d280cc807ba2b24bc47129ea5688d453d3d318364a3a
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.34/metaflow-agent-0.1.34.tgz
+    version: 0.1.34
+  - apiVersion: v2
+    appVersion: "22.7"
+    created: "2022-06-27T10:33:37.84692026Z"
+    description: A Helm chart for Kubernetes
+    digest: 561f97e3887ad7e228120bf1ea7e2539886a7872d2bd1d53dec7e7343c7a4baa
+    name: metaflow-agent
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow-charts/releases/download/metaflow-agent-0.1.33/metaflow-agent-0.1.33.tgz
+    version: 0.1.33
+generated: "2022-07-27T08:51:56.884714883Z"
